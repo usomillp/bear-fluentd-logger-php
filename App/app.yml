@@ -1,0 +1,4 @@
+App_Logger:
+  service: 'www.example.com'
+  adapter: 'App_Logger_FluentLogger'
+
